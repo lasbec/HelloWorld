@@ -1,2 +1,2 @@
 # HelloWorld
-This is a test. and now Ive added this sentence.
+This is a test.
